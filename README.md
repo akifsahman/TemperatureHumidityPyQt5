@@ -5,6 +5,7 @@ This project has been developed to reach some aims that are given as follows:
 - Getting the humidity and temperature values from DHT11 sensor by using GPIO of raspberry pi,
 - Plotting the changes in the graph of humidity and temperature minute by minute,
 - Setting the project for working in a startup as like as kiosk screen
+
 Note : You are able to use akifsahman@gmail.com for your questions and contributes about this project.
 
 # TemperatureHumidityPyQt5
